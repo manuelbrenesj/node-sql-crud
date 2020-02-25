@@ -7,6 +7,7 @@ const myConnection = require('express-myconnection');
 
 const app = express();
 
+
 // IMPORTAR ROUTES
 const userRoute = require('./routes/user');
 
